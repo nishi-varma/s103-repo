@@ -1,4 +1,2 @@
-git
-gihub
-text
 hi
+hello
